@@ -2,7 +2,7 @@
 
 I completed this Harvard CS50 course in November 2026 as a 1st-year cybersecurity student.
 
-![CS50 Certificate]
+![CS50 Certificate](cvx.png)
 
 Verify my certificate: https://cs50.harvard.edu/certificates/59805932-ef5e-4794-b2d2-435a4e76d178
 
